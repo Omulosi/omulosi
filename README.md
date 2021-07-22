@@ -1,5 +1,3 @@
-[![Johns's GitHub Banner](./assets/GitHubHeader.png)](https://omulosi.github.io/johnpaul/)
-
 [![Visits Badge](https://badges.pufler.dev/visits/omulosi/omulosi)](https:braydoncoyer.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/jp_mulongo)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jp-mulongo/)
@@ -25,7 +23,7 @@ Want to know more about me? [Check out my portfolio.](https://omulosi.github.io/
 <br>
 
 <a href="https://github.com/LABS-EU3/flashcards_frontend">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=LABS-EU3&repo=flashcards_frontend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -107,7 +105,7 @@ Want to know more about me? [Check out my portfolio.](https://omulosi.github.io/
 
 <br>
 
-## 📣 favorite quote (one of many) ...
+## 📣 favorite quote (one of many)
 
 > Crazy dreams take crazy effort, just do it!
 >
