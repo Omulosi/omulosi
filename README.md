@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/omulosi/omulosi)](https:braydoncoyer.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/omulosi/omulosi)](https://badges.pufler.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/jp_mulongo)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jp-mulongo/)
 
@@ -13,11 +13,7 @@ Want to know more about me? [Check out my portfolio.](https://omulosi.github.io/
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Functions: Call, Apply and Bind](https://omulosi.github.io/johnpaul/javascript/2020/08/02/js-functions-apply-bind.html)
-- [React ContextAPI and the Reducer Pattern](https://omulosi.github.io/johnpaul/react/2020/01/05/context-api-reducer-pattern.html)
-- [React ContextAPI](https://omulosi.github.io/johnpaul/react/2020/01/05/react-context-api.html)
-- [Converting images from the linux command line](https://omulosi.github.io/johnpaul/linux/2019/09/28/linux-image-converter.html)
-- [Downloading Media Files in Python using the requests library](https://omulosi.github.io/johnpaul/python/2019/09/22/python-download-media.html)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
