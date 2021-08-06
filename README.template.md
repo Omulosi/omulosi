@@ -28,14 +28,14 @@ Want to know more about me? [Check out my portfolio.](https://omulosi.github.io/
 
 <br>
 
-<a href="https://github.com/Omulosi/one-acre-UI">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omulosi&repo=one-acre-UI&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Omulosi/react-shopper">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omulosi&repo=react-shopper&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/Omulosi/Auth-Friends/tree/johnpaul-mulongo">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omulosi&repo=Auth-Friends&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Omulosi/ngeo-ui">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omulosi&repo=ngeo-ui&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
