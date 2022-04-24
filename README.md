@@ -109,7 +109,7 @@ Want to know more about me? [Check out my blog.](https://jpmulongo.me/)
 
 <br>
 
-## 📣 favorite quote (one of many)
+## 📣 favorite quote
 
 > Crazy dreams take crazy effort, just do it!
 >
