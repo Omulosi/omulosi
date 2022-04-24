@@ -4,9 +4,9 @@
 
 Hey there 👋
 
-I’m John, a software developer. I love technology and clean designs.
+I’m John. I'm a software developer. I love technology and clean designs.
 
-Want to know more about me? [Check out my portfolio.](https://omulosi.github.io/johnpaul/)
+Want to know more about me? [Check out my blog.](https://jpmulongo.me/)
 
 ## 📝 Latest Blog Posts
 
