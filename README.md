@@ -4,20 +4,16 @@
 
 Hey there 👋
 
-I’m John. I'm a software developer. I love technology and clean designs.
+I’m John, a software developer. I love technology and clean designs.
 
-Want to know more about me? [Check out my blog.](https://jpmulongo.me/)
+Want to know more about me? [Check out my portfolio.](https://omulosi.github.io/johnpaul/)
 
 ## 📝 Latest Blog Posts
 
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Functions: Call, Apply and Bind](https://omulosi.github.io/johnpaul/javascript/2020/08/02/js-functions-apply-bind.html)
-- [React ContextAPI and the Reducer Pattern](https://omulosi.github.io/johnpaul/react/2020/01/05/context-api-reducer-pattern.html)
-- [React ContextAPI](https://omulosi.github.io/johnpaul/react/2020/01/05/react-context-api.html)
-- [Converting images from the linux command line](https://omulosi.github.io/johnpaul/linux/2019/09/28/linux-image-converter.html)
-- [Downloading Media Files in Python using the requests library](https://omulosi.github.io/johnpaul/python/2019/09/22/python-download-media.html)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -109,7 +105,7 @@ Want to know more about me? [Check out my blog.](https://jpmulongo.me/)
 
 <br>
 
-## 📣 favorite quote
+## 📣 favorite quote (one of many)
 
 > Crazy dreams take crazy effort, just do it!
 >
