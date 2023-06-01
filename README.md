@@ -13,12 +13,32 @@ Want to know more about me? [Check out my portfolio.](https://omulosi.github.io/
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript functions: Beyond the Basics](https://omulosi.github.io/johnpaul/javascript-functions-beyond-basics)
-- [React ContextAPI and the Reducer Pattern](https://omulosi.github.io/johnpaul/context-api-reducer-pattern)
-- [React ContextAPI](https://omulosi.github.io/johnpaul/react-context-api)
-- [Converting images from the linux command line](https://omulosi.github.io/johnpaul/linux-image-converter)
-- [Downloading Media Files in Python using the requests library](https://omulosi.github.io/johnpaul/python-download-media)
+
 <!-- BLOG-POST-LIST:END -->
+
+<br>
+
+## 📌 Pinned Repositories
+
+<br>
+
+<a href="https://github.com/LABS-EU3/flashcards_frontend">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=LABS-EU3&repo=flashcards_frontend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/Omulosi/react-shopper">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omulosi&repo=react-shopper&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/Omulosi/ngeo-ui">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omulosi&repo=ngeo-ui&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
 
 <br>
 
@@ -85,7 +105,7 @@ Want to know more about me? [Check out my portfolio.](https://omulosi.github.io/
 
 <br>
 
-## 📣 favorite quote
+## 📣 favorite quote (one of many)
 
 > Crazy dreams take crazy effort, just do it!
 >
