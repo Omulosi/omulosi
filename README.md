@@ -13,11 +13,7 @@ Want to know more about me? [Check out my portfolio.](https://omulosi.github.io/
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript functions: Beyond the Basics](https://omulosi.github.io/johnpaul/javascript-functions-beyond-basics)
-- [React ContextAPI and the Reducer Pattern](https://omulosi.github.io/johnpaul/context-api-reducer-pattern)
-- [React ContextAPI](https://omulosi.github.io/johnpaul/react-context-api)
-- [Converting images from the linux command line](https://omulosi.github.io/johnpaul/linux-image-converter)
-- [Downloading Media Files in Python using the requests library](https://omulosi.github.io/johnpaul/python-download-media)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
